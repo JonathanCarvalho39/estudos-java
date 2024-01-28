@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\jhow-\OneDrive\Documentos\Jonathan Carvalho\meu-repositorio-2024\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+4000888624.index
+123138522.index
